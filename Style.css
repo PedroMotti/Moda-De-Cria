@@ -1,0 +1,77 @@
+.log{
+padding-right: 1em;
+}
+li{
+display: inline-block;
+padding-right: 4em;
+font-style: italic;
+font: bold;
+font-size:25x;
+}
+
+#logo{
+padding-top: 4em;
+padding-bottom: -3.5em;
+text-align: center;
+}
+
+#cabeçalho{
+padding-right: 4em;
+padding-left: 4em;
+}
+#espaço{
+width: 35em;    
+}
+#desconto{
+text-align: center;
+}
+#fundo{
+position: relative;
+z-index: 1;
+}
+#Dedesconto{
+position: relative;
+top: -35em;
+right: -30em;
+z-index: 10;    
+}
+#Inverno{
+position: relative;
+z-index: 1;
+left: 3em;
+bottom: 11.5cm;
+background-color: #302A2A; 
+width: 95%;   
+height: 23.3cm;
+}
+#Mega{
+position: relative;
+right: -20em;
+bottom: 20em;
+z-index: 10;
+}
+#descontocria{
+position: relative;
+right: -65em;
+bottom: 32em;
+z-index: 10;
+}
+#até{
+position: relative;
+right: -33em;
+bottom: 26em;
+z-index: 10;
+}
+#kit{
+position: relative;
+left: 20em;
+z-index: 10;
+}
+a{
+color: black;
+text-decoration: unset
+}     
+a:hover{
+text-decoration: underline;
+transition: 700ms;
+}    

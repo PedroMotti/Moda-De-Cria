@@ -1,0 +1,75 @@
+.log{
+padding-right: 1em;
+}
+li{
+display: inline-block;
+padding-right: 4em;
+font-style: italic;font: bold;
+}
+    
+#logo{
+padding-top: 4em;
+padding-bottom: -3.5em;
+text-align: center;
+}
+    
+#cabeçalho{
+padding-right: 4em;
+padding-left: 4em;
+}
+#espaço{
+width: 35em;    
+}
+#qm{
+text-align: center;
+padding-top: 4em;
+}
+#texto{
+text-align: left;
+font-size: 60px;
+font-family: 'Candal',sans-serif;
+}
+#imgcont{
+text-align: center;
+}
+.container{
+    position: relative;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    text-align: center;
+    }
+    #nmr{
+    position: relative;
+    width: 100%;
+    font-size: 30px;
+    font-family: 'Candal', sans-serif;
+    }
+    #wpp{
+    position: relative;
+    width: 100%;
+    padding-top: 4em;
+    padding-bottom: 0;
+    font-size: 30px;
+    font-family: 'Candal', sans-serif;
+    }
+    #gmail{
+    position: relative;
+    font-size: 30px;
+    font-family: 'Candal', sans-serif;
+    }
+    #insta{
+    position: relative;
+    padding-top: 4em;
+    font-size: 30px;
+    font-family: 'Candal', sans-serif;
+    }
+    a{
+        color: black;
+        text-decoration: unset
+        }     
+        a:hover{
+        text-decoration: underline;
+        transition: 500ms;
+        }
